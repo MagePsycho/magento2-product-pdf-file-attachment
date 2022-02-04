@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Packagist Version](https://img.shields.io/packagist/v/magepsycho/magento2-product-pdf-file-attachment?style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-product-pdf-file-attachment)
-[![Packagist Version](https://img.shields.io/packagist/dt/magepsycho/magento2-product-pdf-file-attachment.svg?style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-product-pdf-file-attachment/stats)
+[![Packagist Version](https://img.shields.io/github/v/tag/MagePsycho/magento2-product-pdf-file-attachment?sort=semver&label=packagist&style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-product-pdf-file-attachment)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/magepsycho/magento2-product-pdf-file-attachment.svg?style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-product-pdf-file-attachment/stats)
 ![Supported Magento Versions](https://img.shields.io/badge/magento-%202.3_|_2.4-brightgreen.svg?logo=magento&longCache=true&style=for-the-badge)
-![License](https://img.shields.io/github/license/magepsycho/magento2-product-pdf-file-attachment?color=%23234&style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?color=%23234&style=for-the-badge)
 
 </div>
 
@@ -74,4 +74,4 @@ Please [visit our store](https://www.magepsycho.com/extensions/magento-2.html) f
 
 ## Contribution
 Any contribution to the development of `Magento 2 Product Attachment` is highly welcome.  
-The best possibility to provide any code is to open a [pull request on GitHub](https://github.com/MagePsycho/magento2-product-discount-label/pulls).
+The best possibility to provide any code is to open a [pull request on GitHub](https://github.com/MagePsycho/magento2-product-pdf-file-attachment/pulls).
