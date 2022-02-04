@@ -1,5 +1,5 @@
 {
-  "name": "magepsycho/magento2-productattachment",
+  "name": "magepsycho/magento2-product-pdf-file-attachment",
   "description": "Product PDF Attachment",
   "type": "magento2-module",
   "version": "1.0.0",
