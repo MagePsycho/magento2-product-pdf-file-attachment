@@ -2,7 +2,7 @@
   "name": "magepsycho/magento2-product-pdf-file-attachment",
   "description": "Product Attachment",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Raj KB",
