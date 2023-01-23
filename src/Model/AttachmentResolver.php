@@ -62,7 +62,7 @@ class AttachmentResolver
 
     public function isValidFile($file)
     {
-        if (!strlen($file)) {
+        if (!strlen($file ?? '')) {
             return false;
         }
         return $this->file->isFile($this->getAttachmentPath($file));
